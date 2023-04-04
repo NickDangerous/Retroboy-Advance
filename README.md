@@ -1,14 +1,13 @@
 # Retroboy-Advance
-
-
-| |
+||
 |---|
-| *Retroboy* was build by [mikljohansson](https://github.com/mikljohansson). |
-It's a camera-app for android that implements various filters that mimics
-different   old-school devices. I'm not sure yet what I'm gonna do with it,  
-mainly because I'm not sure what I'm gonna be able to do. Some UI elements  
-don't seem to be working right on my phone. I can't adjust the exposure value  
-correctly. Whenever I touch it, it jumps to "2" and I#m seldomly able to change   
+| *Retroboy* was build by [mikljohansson](https://github.com/mikljohansson). |  
+
+It's a camera-app for android that implements various filters that mimics different  
+old-school devices. I'm not sure yet what I'm gonna do with it, mainly because I'm   
+not sure what I'm gonna be able to do.   
+Some UI elements don't seem to be working right on my phone. I can't adjust the exposure    
+value correctly. Whenever I touch it, it jumps to "2" and I#m seldomly able to change   
 it afterwards. I thought I found a hidden setting, "focus marker", but now I realised  
 that you can scroll the settings menu. It's just not communicated. I'm gonna try to  
 change this. Some settings I don't really understand or don't notice much of a change  

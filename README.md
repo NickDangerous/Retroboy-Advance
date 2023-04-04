@@ -1,14 +1,32 @@
-# Retroboy
-[![Travis CI](https://travis-ci.org/mikljohansson/retroboy.svg?branch=master)](https://travis-ci.org/mikljohansson/retroboy)
+# Retroboy-Advance
 
-Retroboy provides vintage imaging technology not seen since the digital cameras and monochrome screens of
-the previous century. A series of real time filters implement various image processing algorithms, to 
-emulate the graphic experience of classic hardware. Available at Google Play
 
-[![Download on Google Play](http://i.imgur.com/rHhHvZw.png)](https://play.google.com/store/apps/details?id=se.embargo.retroboy)
-[![Download on F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)](https://f-droid.org/packages/se.embargo.retroboy/)
+| |
+|---|
+| *Retroboy* was build by [mikljohansson](https://github.com/mikljohansson). |
+It's a camera-app for android that implements various filters that mimics
+different   old-school devices. I'm not sure yet what I'm gonna do with it,  
+mainly because I'm not sure what I'm gonna be able to do. Some UI elements  
+don't seem to be working right on my phone. I can't adjust the exposure value  
+correctly. Whenever I touch it, it jumps to "2" and I#m seldomly able to change   
+it afterwards. I thought I found a hidden setting, "focus marker", but now I realised  
+that you can scroll the settings menu. It's just not communicated. I'm gonna try to  
+change this. Some settings I don't really understand or don't notice much of a change  
+when adjusting them. If I don't understand, what they do afer reading the code or just   
+don't think they are that useful, I'm either gonna change them to have mmore of an effect  
+on the picture or just tidy up the menus. I'd also like to add some filters, I'm missing.  
+I thought I'd be done after an hour or two, but everything is much more complicated than    
+I expected.  I'm still busy figuring out how everything works.
+
+> This is the first time I'm really doing something with Android Studio.
+> I don't know nothing about anything. I used Java in school around 25 years ago but that's it.
+> I'm planning to learn all this stuff for some years now, but I got no discippline at all.
+> I  was just not able to finish even a single tutorial, so now I decided to just dive in,
+> explore a project that interests me and try tinker around with it amateurishly.
+
 
 ## Features
+
 * 4-tone Bayer dithering as found on the Nintendo® Game Boy® Camera
 * Amstrad CPC filter with 27 color palette
 * PXL-2000 PixelVision filter emulating one of the first digital video cameras
@@ -21,6 +39,8 @@ emulate the graphic experience of classic hardware. Available at Google Play
 * Adjust the dynamic contrast to further enhance your photos
 * Process images from your gallery by tapping the share button and selecting Retroboy
 * Share your pictures through Facebook, Twitter, Tumblr, MMS, E-mail or any other methods your device supports
+
+---
 
 ## Development
 * Uses [Android Studio](http://developer.android.com/tools/studio/index.html) for development
